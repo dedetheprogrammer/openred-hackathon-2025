@@ -23,7 +23,6 @@ def data_process():
         return {"error": "Server internal error"}, 500
 
 
-
 # == Starting the server =================================================
 # Esta sección se ejecuta cuando el archivo es ejecutado como script (python app.py)
 if __name__ == '__main__':
